@@ -57,6 +57,8 @@ Value is created through the tension between authentic governance experience (fo
 - **Credits**: Non-transferable tokens earned through task completion
 - **Badges**: Achievement based, non-transferable, give access to premium infrastructure/experiences
 - **Infrastructure**: Community resources accessible via credits
+- **Premium Infrastructure**: Accessible by badges only. 
+    - It would be cool to qualify for a VR headset, or go on a cruise, or get access to a course if you're doing an awesome job.
 
 ### 3.2 Credit Mechanics
 
@@ -64,9 +66,17 @@ Credits function as crystallized social relations rather than currency:
 - **Non-transferable**: Prevents accumulation and secondary markets
 - **Algorithmically valued**: Based on task complexity, completion quality, and system needs
 - **Consumption-bound**: Used for infrastructure access, not exchange
-- **Decay potential**: May expire to prevent hoarding and ensure circulation
+- **Hoard prevention**: hold no actual monetary value, why would you hoard
 
-### 3.3 Revenue Streams
+### 3.3 Badge Mechanics
+
+Badges function as a way to recognize and compensate high contributors:
+- **Non-transferable**: Prevents secondary markets
+- **Non-purchaseable**: Awarded through milestones or as rewards for particularly unattractive bounties
+- **Consumption-bound**: Used for premium access, not exchange
+- **Hoard prevention**: hold no actual monetary value, why would you hoard
+
+### 3.4 Revenue Streams
 
 - **Content monetization**: YouTube ad revenue, sponsorships, product sales (merch, courses)
 - **Educational products**: Courses on governance mechanics
@@ -78,10 +88,8 @@ Credits function as crystallized social relations rather than currency:
 ### 4.1 Selection Pressures
 
 Successful governance structures are selected for:
-- **Engagement metrics**: View count, watch time, audience retention
 - **Participant satisfaction**: Voluntary continued participation
-- **Goal achievement**: Successful revenue generation
-- **System resilience**: Ability to handle disruption and bad actors
+- **Goal achievement**: Regenerative and resilient systems
 
 ### 4.2 Knowledge Accumulation
 
@@ -134,10 +142,15 @@ The model resists technofeudalist consolidation by:
 ## 7. Critical Assumptions
 
 1. **Attention Economy Persistence**: Assumes content monetization remains viable
+    - AVF is not worried about this
 2. **Voluntary Participation**: Requires sustained enthusiasm and buy-in
-3. **Scale Invariance**: Assumes governance principles translate across scales
+    - This or Technofeudalism (and ideally someone else does something better than the two of us)
+3. **Scale Invariance**: Assumes governance principles don't translate across scales, and documents methods employed to mitigate this risk
 4. **Observer Non-Interference**: Assumes documentation doesn't fundamentally alter governance
+    - Also assumes systems scale to IRL from Minecraft
 5. **Revenue Sufficiency**: Assumes content revenue can fund meaningful infrastructure
+    - Also assumes we are not deplatformed
+    - Then we build our own platform fuck em
 
 ## 8. Success Metrics
 
@@ -145,15 +158,23 @@ The model resists technofeudalist consolidation by:
 - **Infrastructure Development**: Tangible community resources created
 - **Pattern Refinement**: Improving governance mechanisms across iterations
 - **External Adoption**: Other communities implementing discovered patterns
+    - AVF is interested how this impacts DAO government structures
 - **Technofeudal Displacement**: Reduced reliance on platform services
 
 ## 9. Failure Modes
 
 - **Attention Collapse**: Content becomes boring, revenue disappears
+    - AVF is not worried about this
 - **Governance Capture**: System ossifies into traditional power structures
+    - which ossify into something better
+    - pain creates urgency to fix the pain, the greater the pain the greater the urgency
 - **Performative Dominance**: Spectacle overwhelms authentic governance
+    - Valid, but AVF is not worried about this
 - **Scale Barriers**: Mechanisms that work small fail large
+    - Correct, that's what this experiment is solving
 - **Technofeudal Absorption**: Platform companies co-opt and commercialize
+    - Then we leave
+    - Fuck em
 
 ## 10. Conclusion
 
