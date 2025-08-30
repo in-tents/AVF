@@ -1,27 +1,17 @@
-Verification bounties can only be claimed by Grand Grove Badge holders
+IF a **Streamer** is live OR a VOD is submitted by a **Streamer** THEN post clipping bounty
+IF **Clipper** submits a timestamp THEN post editing bounty
+IF **Grand Grove** submits a compilation request THEN create compilation editing bounty
+IF editing bounty completed THEN post verification bounty
+IF verification bounty completed THEN execute distribution sequence
+IF paid THEN deposit 70% to infrastructure, 30% to reserves
+IF a clip is used in a verified editing bounty THEN award X credits split among the clippers that flagged it
+IF a new discord member used [member]'s link THEN [member] is awarded X credits
+IF an editing bounty is verified against a rubric and found to be acceptable THEN editor recieves X credits
+IF an editing bounty is verified and found to have artistic flourish THEN editor is tipped X credits
+IF an editing bounty is verified and found to have enjoyable narrative substance THEN editor is tipped X credits
+IF bounty unfilled for 24 hours THEN increase reward by 10%
+IF verification bounty unfilled for 48 hours THEN auto-approve with base payment
+IF bounty claimed but not completed within timeframe THEN release claim and increase bounty
+IF verification disputed THEN trigger multi-verifier consensus protocol
+IF payment fails THEN retry 3x then flag for human intervention
 
-clips are by timestamp, not actual footage.
-
-For all the clippers, each timestamp they capture that is used, the total reward is split between all the clips used, and then split between all the people who submitted time stamps.
-
-Editing is compensated for compiling clips with good pacing, and tipped for making it a great consumption experience.
-
-Streamers are compensated for streaming based on watchtime of the stream and engagement rate. Botting results in a negative badge.
-
-
-### Actual Theory
-Streamers stream
-Clippers clip
-Editors edit
-Verifiers verify
-
-I want streamers to be compensated for good clippable moments, but also for documenting the experience Live.
-
-I want clippers to recieve enough compensation for it to be worth it. Or maybe they are paid in badges more than credits.
-
-I want editors to be between "great pacing, not very flashy" and "that was engaging without being overwhelming". Compensated for pacing, tipped for flourish.
-
-Verifiers are compensated for being non-biased verifiers. They are compensated based on their rate of good verifications.
-
-Reputation should play a role here, where failed verifications result in hits to your reputation.
-Perhaps some bounties are only available to high-reputation participants.
