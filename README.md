@@ -4,7 +4,7 @@ Aeterna Vis Floris
 
 suck my fat throbbing cock petey
 
-The innovation part is Greg. THAT is what we are testing, AI assisted governance, bootstrapping society, decentralized government, cosmetic guiding class.
+The innovation part is Greg. THAT is what we are testing, AI assisted governance, bootstrapping society, global coordination with local autonomy, everyone can access whatever they need.
 
 We are also testing bootstrap methods
 
