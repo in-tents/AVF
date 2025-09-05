@@ -9,7 +9,7 @@ We test cybernetic governance in the DODM, and we test social dynamics in the mi
 We are also testing bootstrap methods
 
 # ok but on a fr note
-Edit: this note was not very fr. go to the Big Iron section. if you are more interested in mission statement, which is indeed fr, read on
+Edit: this note was not very fr. if you are more interested in mission statement, which is indeed fr, read on
 
 The AVF exists because no one else will do it. So fuck it, we build it ourselves.
 
