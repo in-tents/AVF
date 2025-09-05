@@ -4,7 +4,7 @@ Aeterna Vis Floris
 
 suck my fat throbbing cock petey
 
-The innovation part is Greg. THAT is what we are testing, AI assisted governance, bootstrapping society, global coordination with local autonomy, everyone can access whatever they need.
+We test cybernetic governance in the DODM, and we test social dynamics in the minecraft server
 
 We are also testing bootstrap methods
 
